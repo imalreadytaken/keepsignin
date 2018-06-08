@@ -44,6 +44,8 @@ location语法规则：
 
 	try_files $uri $uri/ /index.php?$query_string;
 
+>  nginx -p C:\server\nginx-1.14.0  -s reload 指定目录重启
+
 ## 安装composer
 https://getcomposer.org/download/](https://getcomposer.org/download/ "composer下载地址")
 ## 安装laravel
