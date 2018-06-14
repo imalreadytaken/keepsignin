@@ -10,3 +10,8 @@ PHP：Foreach
 	// $arr is now array(2, 4, 6, 8)
 	unset($value); // 最后取消掉引用
 	?>
+
+IDEA
+---
+显示方法文档
+view->quick documentation
